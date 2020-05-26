@@ -1,7 +1,8 @@
 ## Dataset
 Mnist
 ## Original performance
-863 seconds in 10 epochs 
+863 seconds in 10 epochs \
+Where tensorflow took 483 seconds originally
 ## With caccum.cpp to replace accumarray in vTP
 626 seconds in 10 epochs
 ## With outersum.cpp to replace outer sum in vTP
